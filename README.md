@@ -1,1 +1,1 @@
-# SpyScout
+# sPyScout
